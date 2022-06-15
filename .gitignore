@@ -1,0 +1,8 @@
+.ipy*
+*.swp
+*.swo
+*.root
+*.pdf
+*DS_Store
+*__pycache__/
+*.html
